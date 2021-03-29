@@ -13,3 +13,4 @@ HTML ‚Í—v‘f‚ÌW‚Ü‚è‚©‚ç‚È‚èAƒRƒ“ƒeƒ“ƒc‚Ìˆê•”‚ğ—v‘f‚ÅˆÍ‚Şiƒ}[ƒNƒAƒbƒv‚·‚éj‚±‚
 Ë Î‘Ì‚É‚È‚é
 
 
+Ÿ‰ñ‚Í https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document ‚©‚ç
