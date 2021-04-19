@@ -14,3 +14,7 @@ HTML ‚Í—v‘f‚ÌW‚Ü‚è‚©‚ç‚È‚èAƒRƒ“ƒeƒ“ƒc‚Ìˆê•”‚ð—v‘f‚ÅˆÍ‚Þiƒ}[ƒNƒAƒbƒv‚·‚éj‚±‚
 
 HTML—á•¶‚Ìƒtƒ@ƒCƒ‹–¼‚Í index.html ‚ÆŽw’è‚³‚ê‚Ä‚¢‚½‚Ì‚ÅC³
 ‚»‚Ì‚Ù‚©AŒ©o‚µ‚ð•t‚¯‚½‚è•¶Í‚ð•ÏX‚µ‚½‚èAƒŠƒ“ƒNE‰æ‘œ‚ð’Ç‰Á‚µ‚½‚è‚·‚é
+
+•¶ŽšƒR[ƒh‚ªShift-JIS‚¾‚Á‚½‚½‚ßUTF-8‚É•ÏX
+HTML\•¶‚ª‚¤‚ëŠo‚¦‚·‚¬‚½‚Ì‚ÅC³
+
