@@ -18,3 +18,4 @@ HTML例文のファイル名は index.html と指定されていたので修正
 文字コードがShift-JISだったためUTF-8に変更
 HTML構文がうろ覚えすぎたので修正
 
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started#whitespace_in_html から。
