@@ -35,3 +35,12 @@ HTMLではどれだけ半角スペースを入れても一つのスペースと�
 #### HTMLにおけるコメント
 
 `<!--` ～ `-->` で囲む
+
+
+### head には何が入る? HTML のメタデータ
+#### HTML の head とは何か？
+##### タイトルをつける
+head のタイトルは `h1` タグの内容とは全く別の物
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#active_learning_inspecting_a_simple_example から。
+
