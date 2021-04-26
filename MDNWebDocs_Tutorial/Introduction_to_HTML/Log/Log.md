@@ -12,5 +12,10 @@ HTML ‚Í—v‘f‚ÌW‚Ü‚è‚©‚ç‚È‚èAƒRƒ“ƒeƒ“ƒc‚Ìˆê•”‚ğ—v‘f‚ÅˆÍ‚Şiƒ}[ƒNƒAƒbƒv‚·‚éj‚±‚
 <em> ` </em> ‚ÅˆÍ‚¤
 Ë Î‘Ì‚É‚È‚é
 
+HTML—á•¶‚Ìƒtƒ@ƒCƒ‹–¼‚Í index.html ‚Æw’è‚³‚ê‚Ä‚¢‚½‚Ì‚ÅC³
+‚»‚Ì‚Ù‚©AŒ©o‚µ‚ğ•t‚¯‚½‚è•¶Í‚ğ•ÏX‚µ‚½‚èAƒŠƒ“ƒNE‰æ‘œ‚ğ’Ç‰Á‚µ‚½‚è‚·‚é
 
-Ÿ‰ñ‚Í https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document ‚©‚ç
+•¶šƒR[ƒh‚ªShift-JIS‚¾‚Á‚½‚½‚ßUTF-8‚É•ÏX
+HTML\•¶‚ª‚¤‚ëŠo‚¦‚·‚¬‚½‚Ì‚ÅC³
+
+Ÿ‚Í https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Getting_started#whitespace_in_html ‚©‚çB
