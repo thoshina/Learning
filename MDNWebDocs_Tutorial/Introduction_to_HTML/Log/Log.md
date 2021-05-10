@@ -44,3 +44,10 @@ head のタイトルは `h1` タグの内容とは全く別の物
 
 https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/the-html-head/title-example.html よりHTMLファイルの内容をコピー
 
+
+##### メタデータ: <meta>要素
+
+様々な機能があり、文字コードの設定なども行なう
+
+
+
