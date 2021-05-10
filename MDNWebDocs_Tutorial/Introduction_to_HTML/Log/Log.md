@@ -50,4 +50,4 @@ https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/the-h
 様々な機能があり、文字コードの設定なども行なう
 
 
-
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#active_learning_experiment_with_character_encoding から
