@@ -57,3 +57,7 @@ https://developer.mozilla.org/ja/ の `description` を参照
 `description` 内の文で検索すると、 https://developer.mozilla.org/ja/ が検索結果の上位に表示される
 
 
+メタデータの他の種類
+
+- プロプライエタリ（proprietary）  
+独自仕様の・非公開のという意味で、オープンの対義語になる。
