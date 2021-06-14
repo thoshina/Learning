@@ -71,4 +71,4 @@ CSS、JavaScript は それぞれ <link> 要素、 <script> 要素で表す
 
 サイトにダウンロードしたCSS・JavaScriptを追加
 
-
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#setting_the_primary_language_of_the_document から
