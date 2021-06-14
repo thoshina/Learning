@@ -65,4 +65,10 @@ https://developer.mozilla.org/ja/ の `description` を参照
 
 サイトにファビコンを設定
 
+##### HTML に CSS と JavaScript を追加する
+
+CSS、JavaScript は それぞれ <link> 要素、 <script> 要素で表す
+
+サイトにダウンロードしたCSS・JavaScriptを追加
+
 
