@@ -63,4 +63,6 @@ https://developer.mozilla.org/ja/ の `description` を参照
 独自仕様の・非公開のという意味で、オープンの対義語になる。
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site から。
+サイトにファビコンを設定
+
+
