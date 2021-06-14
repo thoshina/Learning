@@ -49,5 +49,18 @@ https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/the-h
 
 様々な機能があり、文字コードの設定なども行なう
 
+作成者と説明を追加する
+多くの <meta> 要素は `name` と `content` 属性が含まれる
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#active_learning_experiment_with_character_encoding から
+https://developer.mozilla.org/ja/ の `description` を参照
+
+`description` 内の文で検索すると、 https://developer.mozilla.org/ja/ が検索結果の上位に表示される
+
+
+メタデータの他の種類
+
+- プロプライエタリ（proprietary）  
+独自仕様の・非公開のという意味で、オープンの対義語になる。
+
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site から。
