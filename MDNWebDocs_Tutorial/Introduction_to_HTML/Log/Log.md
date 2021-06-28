@@ -63,4 +63,12 @@ https://developer.mozilla.org/ja/ の `description` を参照
 独自仕様の・非公開のという意味で、オープンの対義語になる。
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#adding_custom_icons_to_your_site から。
+サイトにファビコンを設定
+
+##### HTML に CSS と JavaScript を追加する
+
+CSS、JavaScript は それぞれ <link> 要素、 <script> 要素で表す
+
+サイトにダウンロードしたCSS・JavaScriptを追加
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#setting_the_primary_language_of_the_document から
