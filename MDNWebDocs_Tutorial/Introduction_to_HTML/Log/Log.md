@@ -71,4 +71,10 @@ CSS、JavaScript は それぞれ <link> 要素、 <script> 要素で表す
 
 サイトにダウンロードしたCSS・JavaScriptを追加
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#setting_the_primary_language_of_the_document から
+##### 必要な言語の設定
+
+lang属性で指定
+<html lang="en-US">
+
+文中で部分的に指定もできる
+<p>Japanese example: <span lang="ja">ご飯が熱い。</span>.</p>
