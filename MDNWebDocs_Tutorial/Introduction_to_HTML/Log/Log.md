@@ -88,3 +88,5 @@ text-start.html を DL
 
 構造化の練習を行なう
 
+
+次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists から
