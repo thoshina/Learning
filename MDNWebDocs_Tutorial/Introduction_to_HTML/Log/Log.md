@@ -78,3 +78,10 @@ lang属性で指定
 
 文中で部分的に指定もできる
 <p>Japanese example: <span lang="ja">ご飯が熱い。</span>.</p>
+
+
+### HTML テキストの基礎
+#### 基本: 見出しとパラグラフ
+パラグラフは `<p>` で囲み、見出しは `h1` ～ `h6`　で囲む
+
+text-start.html を DL
