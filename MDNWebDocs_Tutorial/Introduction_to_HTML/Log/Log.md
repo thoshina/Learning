@@ -71,4 +71,22 @@ CSS、JavaScript は それぞれ <link> 要素、 <script> 要素で表す
 
 サイトにダウンロードしたCSS・JavaScriptを追加
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#setting_the_primary_language_of_the_document から
+##### 必要な言語の設定
+
+lang属性で指定
+<html lang="en-US">
+
+文中で部分的に指定もできる
+<p>Japanese example: <span lang="ja">ご飯が熱い。</span>.</p>
+
+
+### HTML テキストの基礎
+#### 基本: 見出しとパラグラフ
+パラグラフは `<p>` で囲み、見出しは `h1` ～ `h6`　で囲む
+
+text-start.html を DL
+
+構造化の練習を行なう
+
+
+次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists から
