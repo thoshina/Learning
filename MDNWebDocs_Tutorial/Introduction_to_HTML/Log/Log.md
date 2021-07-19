@@ -89,4 +89,16 @@ text-start.html を DL
 構造化の練習を行なう
 
 
-次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists から
+#### リスト
+
+順序無し
+<ul>
+  <li>～</li>
+  <li>～</li>
+</ul>
+
+順序付き
+<ol>
+  <li>～</li>
+  <li>～</li>
+</ol>
