@@ -102,3 +102,6 @@ text-start.html を DL
   <li>～</li>
   <li>～</li>
 </ol>
+
+text-start.html をリストに加工
+
