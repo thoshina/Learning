@@ -104,4 +104,5 @@ text-start.html を DL
 </ol>
 
 text-start.html をリストに加工
+<p>タグも追加
 
