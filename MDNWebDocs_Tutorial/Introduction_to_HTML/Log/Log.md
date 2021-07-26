@@ -106,4 +106,6 @@ text-start.html を DL
 text-start.html をリストに加工
 <p>タグも追加
 
-次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#nesting_lists から
+#### 入れ子のリスト
+<ul> ～ </ul>、<ol> ～ </ol> の間に <ul> ～ </ul>、<ol> ～ </ol> を入れると、入れ子のリストになる
+
