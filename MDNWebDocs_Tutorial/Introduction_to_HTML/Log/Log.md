@@ -119,3 +119,10 @@ text-start.html をリストに加工
 #### イタリック、太字、下線...
 それぞれ <i>、<b> 、<u>で適用できるが表示を変える以上の意味を持たないため、現在は使用しないほうが良い。
 イタリック・太字については上記の意味を持つし、下線についてもハイパーリンクと間違えてしまうため、
+
+
+### ハイパーリンクの作成
+#### ハイパーリンクとは
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#what_is_a_hyperlink から
+
