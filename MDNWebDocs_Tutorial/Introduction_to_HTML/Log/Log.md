@@ -130,4 +130,7 @@ text-start.html をリストに加工
 title = でリンクにマウスカーソルを合わせた時に表示される文字を指定
 リンクには画像も指定可能
 
+#### URL とパスに関する簡単な入門
 
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#a_quick_primer_on_urls_and_paths から
