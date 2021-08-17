@@ -106,4 +106,23 @@ text-start.html を DL
 text-start.html をリストに加工
 <p>タグも追加
 
-次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#nesting_lists から
+#### 入れ子のリスト
+<ul> ～ </ul>、<ol> ～ </ol> の間に <ul> ～ </ul>、<ol> ～ </ol> を入れると、入れ子のリストになる
+
+### 強調と重要性
+#### 強調
+<em> で囲うことでイタリック体になり、強調扱いになる。スクリーンリーダーでも発音が変わるので、ただイタリック体にするためだけに使ってはいけない。
+
+#### 重要度が高い
+<strong> で囲うことで太字になり、重要な意味を持つ扱いになる。こちらも、スクリーンリーダーで発音が変わる。
+
+#### イタリック、太字、下線...
+それぞれ <i>、<b> 、<u>で適用できるが表示を変える以上の意味を持たないため、現在は使用しないほうが良い。
+イタリック・太字については上記の意味を持つし、下線についてもハイパーリンクと間違えてしまうため、
+
+
+### ハイパーリンクの作成
+#### ハイパーリンクとは
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#what_is_a_hyperlink から
+
