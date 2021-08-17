@@ -123,6 +123,6 @@ text-start.html をリストに加工
 
 ### ハイパーリンクの作成
 #### ハイパーリンクとは
+様々なwebコンテンツが利用できるリンク
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#what_is_a_hyperlink から
 
