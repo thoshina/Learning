@@ -149,3 +149,6 @@ HTMLの特定の部分（ドキュメントフラグメント）にリンクを�
 同じドキュメント内なら、 `#Mailing_address` でもリンク可能
 
 
+#### 絶対 URL vs 相対 URL
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls から。
