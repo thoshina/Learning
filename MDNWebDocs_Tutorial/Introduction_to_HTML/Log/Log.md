@@ -132,5 +132,20 @@ title = でリンクにマウスカーソルを合わせた時に表示される
 
 #### URL とパスに関する簡単な入門
 
+URLでもファイルパスと同様にサブディレクトリを表現する
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#a_quick_primer_on_urls_and_paths から
+##### ドキュメントフラグメント
+
+HTMLの特定の部分（ドキュメントフラグメント）にリンクを作ることもできる
+
+<h2 id="Mailing_address">Mailing address</h2>
+
+のようにidを付けると、
+
+<a href="contacts.html#Mailing_address">mailing address</a>
+
+でidの場所にリンクできる。
+
+同じドキュメント内なら、 `#Mailing_address` でもリンク可能
+
+
