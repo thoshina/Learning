@@ -150,5 +150,12 @@ HTMLの特定の部分（ドキュメントフラグメント）にリンクを�
 
 
 #### 絶対 URL vs 相対 URL
+- 絶対URL  
+protocol と domain name を含む、Web 上の絶対位置で定義された位置を指すURL。  
+使用されている場所に関係なく、常に同じ場所を指す。  
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls から。
+- 相対URL  
+リンクしているファイルからの相対的な場所を指すURL。  
+あるファイルを基準にしてファイルの位置を表現する。
+リンク切れに注意。
+
