@@ -150,5 +150,31 @@ HTMLの特定の部分（ドキュメントフラグメント）にリンクを�
 
 
 #### 絶対 URL vs 相対 URL
+- 絶対URL  
+protocol と domain name を含む、Web 上の絶対位置で定義された位置を指すURL。  
+使用されている場所に関係なく、常に同じ場所を指す。  
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls から。
+- 相対URL  
+リンクしているファイルからの相対的な場所を指すURL。  
+あるファイルを基準にしてファイルの位置を表現する。
+リンク切れに注意。
+
+
+### リンクのベストプラクティス  
+#### 明確なリンク用語を使う  
+誰にとっても（スクリーンリーダーを含む）わかりやすいリンクテキストを使う。  
+リンクがあることはすでにわかるので、さらに「～のリンク」などとは書かない。  
+リンクテキストはできるだけ短くする。  
+
+#### できるだけ相対リンクを使う  
+- コードが短くなり読みやすくなる  
+- 絶対URLだとブラウザがいちいちサーバの検索からやり直すため、表示効率が落ちる  
+
+#### HTML 以外のリソースへのリンク - 明確な道標を残す  
+リンク先の情報を表示する。リンクをクリックしたら大きなファイルのダウンロードが始まったり、動画再生が始まったりすると困る環境でサイトを見ている人もいるため。  
+
+#### ダウンロードへのリンクは download 属性を使う  
+download 属性を使うことで、ファイル名の初期値を指定できたりする  
+
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#active_learning_creating_a_navigation_menu から
