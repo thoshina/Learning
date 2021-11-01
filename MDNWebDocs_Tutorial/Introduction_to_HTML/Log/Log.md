@@ -177,4 +177,5 @@ protocol と domain name を含む、Web 上の絶対位置で定義された位
 download 属性を使うことで、ファイル名の初期値を指定できたりする  
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#active_learning_creating_a_navigation_menu から
+#### ナビゲーションメニューを作成
+
