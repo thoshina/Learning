@@ -186,3 +186,4 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 さらに、ccなど標準のメールヘッダフィールドを追加できる
 
 
+つぎは　https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#summary から
