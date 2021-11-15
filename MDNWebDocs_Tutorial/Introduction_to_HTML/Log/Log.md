@@ -186,4 +186,15 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 さらに、ccなど標準のメールヘッダフィールドを追加できる
 
 
-つぎは　https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#summary から
+## 高度なテキスト処理
+### 説明リスト
+ある事柄についての説明を記述する方法。以下のように記述する。
+
+```
+<dl>
+  <dt>タイトル</dt>
+  <dd>ドキュメント</dd>
+</dl>
+```
+
+
