@@ -197,4 +197,8 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 </dl>
 ```
 
+### 引用
+#### ブロッククォート
+文章などを丸ごと引用した場合などに使用する
 
+つぎは　https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#blockquotes でブロッククォートを再学習
