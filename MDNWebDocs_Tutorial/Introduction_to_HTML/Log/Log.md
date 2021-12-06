@@ -201,4 +201,15 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 #### ブロッククォート
 文章などを丸ごと引用した場合などに使用する
 
-つぎは　https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#blockquotes でブロッククォートを再学習
+ブロッククォートを再学習  
+ブロッククォートで表示されると、一段インデントが下がって表示されるなどする。
+
+また、属性 `cite` は、ブラウザの表示に影響しないし、リンクを発生させたりしない。
+ユーザーエージェントがサイトの情報を得るときに参照する。
+
+#### インラインクォート
+文中の一文に引用先を付ける際に使用する
+こちらも、属性 `cite` は、ブラウザ等の表示に影響しない。
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#citations から
+
