@@ -215,3 +215,11 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 属性 `cite` は、ブラウザ等の表示に影響しない。ここで説明していました。
 
 Confucius = 孔子のこと。“子、曰く…”の `子` のような単語の様子。
+
+
+### 略語
+<abbr> を使用。ツールチップで略語の内容が表示できる
+
+<p>We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.</p>
+<p><abbr title="National Aeronautics and Space Administration">NASA</abbr> sure does some exciting work.</p>
+
