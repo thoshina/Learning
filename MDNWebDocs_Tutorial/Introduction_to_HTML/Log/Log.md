@@ -211,5 +211,7 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 文中の一文に引用先を付ける際に使用する
 こちらも、属性 `cite` は、ブラウザ等の表示に影響しない。
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#citations から
+#### 引用元
+属性 `cite` は、ブラウザ等の表示に影響しない。ここで説明していました。
 
+Confucius = 孔子のこと。“子、曰く…”の `子` のような単語の様子。
