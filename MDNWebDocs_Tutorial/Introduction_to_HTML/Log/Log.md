@@ -243,4 +243,4 @@ Confucius = 孔子のこと。“子、曰く…”の `子` のような単語�
 <samp>出力を表現する
 
 
-
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#marking_up_times_and_dates から
