@@ -217,9 +217,30 @@ download 属性を使うことで、ファイル名の初期値を指定でき�
 Confucius = 孔子のこと。“子、曰く…”の `子` のような単語の様子。
 
 
-### 略語
+#### 略語
 <abbr> を使用。ツールチップで略語の内容が表示できる
 
 <p>We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.</p>
 <p><abbr title="National Aeronautics and Space Administration">NASA</abbr> sure does some exciting work.</p>
+
+#### 詳細な連絡先をマークアップする
+
+<address>タグで囲って連絡先を表現する。
+
+
+#### 上付きと下付き
+
+文字を、行の上部・下部に寄せて表示できる。乗数や、化学式などを表現できる。
+<sup> が上、 <sup> が下。
+
+
+#### コンピューターコードを表現する
+
+<code>コードのを表現する
+<pre>空白を表示できるようになる
+<var>変数を表現する
+<kbd>キーボード入力を表現する
+<samp>出力を表現する
+
+
 
