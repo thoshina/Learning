@@ -251,4 +251,5 @@ Confucius = 孔子のこと。“子、曰く…”の `子` のような単語�
 月のみ、時刻のみなど、様々な表現がある
 
 
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure から
 
