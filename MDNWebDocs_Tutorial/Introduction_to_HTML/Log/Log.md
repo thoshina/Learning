@@ -243,4 +243,13 @@ Confucius = 孔子のこと。“子、曰く…”の `子` のような単語�
 <samp>出力を表現する
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#marking_up_times_and_dates から
+#### 日付と時刻をマークアップする
+
+<time datetime="2016-01-20">20 January 2016</time>
+
+表示される日時ではなく、コンピュータが読める形で記述する。
+月のみ、時刻のみなど、様々な表現がある
+
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure から
+
