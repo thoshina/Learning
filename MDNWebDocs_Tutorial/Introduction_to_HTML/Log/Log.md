@@ -259,6 +259,12 @@ Confucius = 孔子のこと。“子、曰く…”の `子` のような単語�
 
 #### コンテンツを構造化する HTML
 
+https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#active_learning_exploring_the_code_for_our_example のコードを確認  
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#active_learning_exploring_the_code_for_our_example から
 
+#### HTML レイアウト要素の詳細
+
+<main> <article> <section> <aside> <header> <nav> <footer> など。
+解説は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#html_layout_elements_in_more_detail 。
+
+次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#non-semantic_wrappers から
