@@ -267,4 +267,13 @@ https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_a
 <main> <article> <section> <aside> <header> <nav> <footer> など。
 解説は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#html_layout_elements_in_more_detail 。
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#non-semantic_wrappers から
+#### 非セマンティックなラッパー
+
+HTMLでは以下のふたつが提供されている
+
+- <span>  
+インラインの項目で適当なものが無い時に使用
+
+- <div>  
+ブロック単位の項目で適当なものが無い時に使用
+
