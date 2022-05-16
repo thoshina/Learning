@@ -287,4 +287,5 @@ HTMLでは以下のふたつが提供されている
 区切りになる水平線を入れたいときに使用
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#planning_a_simple_website から
+#### 簡単なウェブサイトを計画する
+
