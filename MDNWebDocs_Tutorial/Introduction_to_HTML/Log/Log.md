@@ -295,3 +295,10 @@ HTMLでは以下のふたつが提供されている
 4. 3.で上げたコンテンツを分類する
 5. 大まかなサイトマップをスケッチ
 
+
+### HTMLのデバッグ
+
+#### HTMLとデバッグ
+##### 許容コード
+
+つぎは https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML#%E8%A8%B1%E5%AE%B9%E3%82%B3%E3%83%BC%E3%83%89 から
