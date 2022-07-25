@@ -287,4 +287,18 @@ HTMLでは以下のふたつが提供されている
 区切りになる水平線を入れたいときに使用
 
 
-次は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#planning_a_simple_website から
+#### 簡単なウェブサイトを計画する
+
+1. すべてのページに共通なものを書き出す
+2. 各ページの構造を大まかにスケッチ
+3. 1.で上げた以外の、サイトに載せたいすべてのコンテンツを書き出す
+4. 3.で上げたコンテンツを分類する
+5. 大まかなサイトマップをスケッチ
+
+
+### HTMLのデバッグ
+
+#### HTMLとデバッグ
+##### 許容コード
+
+つぎは https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML#%E8%A8%B1%E5%AE%B9%E3%82%B3%E3%83%BC%E3%83%89 から
