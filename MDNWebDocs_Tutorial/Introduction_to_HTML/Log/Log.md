@@ -301,4 +301,5 @@ HTMLでは以下のふたつが提供されている
 #### HTMLとデバッグ
 ##### 許容コード
 
-つぎは https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML#%E8%A8%B1%E5%AE%B9%E3%82%B3%E3%83%BC%E3%83%89 から
+[debug-example.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/debugging-html/debug-example.html) を DL
+
