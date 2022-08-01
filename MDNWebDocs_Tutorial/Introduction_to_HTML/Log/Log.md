@@ -307,3 +307,11 @@ HTMLでは以下のふたつが提供されている
 
 https://validator.w3.org/#validate_by_input を使うと、修正すべき点などがわかる
 
+
+### 手紙をマークアップする
+
+課題用のテキスト（letter-text.txt、css.txt）をダウンロード
+課題の内容などを確認中
+
+次回も引き続き https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter
+
