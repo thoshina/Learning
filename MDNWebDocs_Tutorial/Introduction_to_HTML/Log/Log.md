@@ -303,6 +303,15 @@ HTMLでは以下のふたつが提供されている
 
 [debug-example.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/debugging-html/debug-example.html) を DL
 
-上のファイルの問題点を確認中…
+上のファイルの問題点を確認.
 
-次回は https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML#%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0_html_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%A4%9C%E8%A8%BC から
+https://validator.w3.org/#validate_by_input を使うと、修正すべき点などがわかる
+
+
+### 手紙をマークアップする
+
+課題用のテキスト（letter-text.txt、css.txt）をダウンロード
+課題の内容などを確認中
+
+次回も引き続き https://developer.mozilla.org/ja/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter
+
